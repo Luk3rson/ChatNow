@@ -8,7 +8,7 @@ def initialize_session_state():
 
 # Main Streamlit app
 def text_page():
-    st.title("Gemini NexusCraft")
+    st.title("ChatNow Application for Customer Operations")
 
     # Initialize session state
     initialize_session_state()
